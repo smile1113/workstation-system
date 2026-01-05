@@ -1,4 +1,6 @@
-# 项目介绍：
+# 项目介绍：基于gitee用户mozinanqiu的工位图项目进行了扩展
+原作者地址：https://gitee.com/mozinanqiu/work-station
+本项目优化了原作的固定工位，新增了可以拖拉拽的工位模型，新增了组件库，对每个模型可以分配员工与编排工位信息
 
 ## **技术栈：Fabric.js、Vue3、Element-Plus**、Node.js
 
