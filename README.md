@@ -16,3 +16,9 @@
 external 是前端项目，使用 npm install 安装依赖，npm run dev 运行项目
 
 shelf-external-api 是后端项目，使用 npm install 安装依赖,，node app 运行项目
+
+图片：
+<img width="2559" height="1199" alt="image" src="https://github.com/user-attachments/assets/12df8d3a-e7b5-470b-97cf-eb4edab2b723" />
+<img width="1125" height="690" alt="image" src="https://github.com/user-attachments/assets/88388d1c-5df3-4209-8781-7ed4d8ec6e53" />
+<img width="2559" height="1199" alt="image" src="https://github.com/user-attachments/assets/cb0f3c69-bdf1-4568-b72a-a3271ccbc59d" />
+
